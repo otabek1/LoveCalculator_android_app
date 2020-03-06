@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="Name2"></string>
+    <string name="name1"></string>
+    <string name="error_noname">Please enter names</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="cool">Cool</string>
+    <string name="love_calculator">Love Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_love_score">Your Love Score:</string>
+    <string name="enter_his_her_name">Enter his/her name</string>
+    <string name="todo">TODO</string>
+</resources>
